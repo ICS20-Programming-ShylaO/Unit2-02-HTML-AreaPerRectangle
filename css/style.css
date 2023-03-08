@@ -11,5 +11,12 @@ body {
 h1 {
   background-color: #9C84A8;
   color: white;
-  
+  font-weight: bold;
+  padding: 40px;
+}
+
+p {
+  background-color: #A894B3;
+  color: white;
+  padding: 10px;
 }
